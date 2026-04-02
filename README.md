@@ -10,4 +10,4 @@
 javac BankManagementSystem.java
 java BankManagementSystem
 ## Output Screenshot
-![Bank Output](Bank-output.png)
+![Bank Output]("C:\Users\TS Mohammed Khadeer\Downloads\Bank-output.png.jpeg")
