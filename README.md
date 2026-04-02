@@ -9,5 +9,4 @@
 ## How to run
 javac BankManagementSystem.java
 java BankManagementSystem
-## Output Screenshot
-![Bank Output]("C:\Users\TS Mohammed Khadeer\Downloads\Bank-output.png.jpeg")
+
