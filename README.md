@@ -9,3 +9,5 @@
 ## How to run
 javac BankManagementSystem.java
 java BankManagementSystem
+## Output Screenshot
+![Bank Output](Bank-output.png)
